@@ -7,4 +7,5 @@ if(mob){
 else{
   elem.innerHTML = "Check Out the Website";
   elem1.href= "https://finlytics.000webhostapp.com/";
+  elem1.target = "_blank";
 }
