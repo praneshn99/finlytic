@@ -8,5 +8,5 @@ if(mob){
 else{
   elem.innerHTML = "Check Out the Website!";
   elem1.href= "https://finlytics.000webhostapp.com/";
-  elem2.className = "fa fa-search img-fluid";
+  elem2.className = "fa fa-search video-play-button";
 }
