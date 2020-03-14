@@ -3,7 +3,6 @@ var elem = document.getElementById('app-web-head');
 var elem1 = document.getElementById('visit-project');
 if(mob){
   elem.innerHTML = "Download the Application";
-  elem1.href = "https://gofile.io/?c=oXHruH";
 }
 else{
   elem.innerHTML = "Check Out the Application";
