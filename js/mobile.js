@@ -5,6 +5,6 @@ if(mob){
   elem.innerHTML = "Download the Application";
 }
 else{
-  elem.innerHTML = "Check Out the Website!";
+  elem.innerHTML = "Check Out the Website";
   elem1.href= "https://finlytics.000webhostapp.com/";
 }
